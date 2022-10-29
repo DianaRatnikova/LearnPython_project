@@ -1,0 +1,3 @@
+[submodule "NLTK-Tests"]
+	path = NLTK-Tests
+	url = https://github.com/NataliiaRemezova/NLTK-Tests.git
